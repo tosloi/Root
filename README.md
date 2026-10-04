@@ -80,5 +80,5 @@ When reporting a possible false positive or missed detection, include:
 Root's game checks are read-only. It does not remove mods, change game settings, or ban players. Reviewers make the final decision.
 
 ---
-
+   
 Created by **tosloi**.
