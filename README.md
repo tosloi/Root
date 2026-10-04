@@ -67,7 +67,7 @@ Reports are saved under `%TEMP%\RootScanner`. Keep the report if you need it lat
 
 A regular build runs locally and displays **LOCAL**. A personalized build can include a session PIN and submit results to its configured session service. Website delivery depends on that service being available; the local report remains available if an upload fails.
 
-## If something looks wrong
+## If something looks wrong 
 
 Check the finding's explanation and source before taking action. Legitimate mods and applications can produce findings too.
 
